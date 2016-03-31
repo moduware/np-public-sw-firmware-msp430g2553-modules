@@ -1,1 +1,0 @@
-"./App_Driver/RGBLedByPwm.obj" "./libraries/NCN_GPIO.obj" "./tmain.obj" "./t_my_app.obj" "../lnk_msp430g2553.cmd" "../mdk/np_module_mdk_v2.lib" -l"D:\Carlota\3. Firmware\2.FW_V2\simple examples\LEDrGB\LEDrGB\mdk\np_module_mdk_v2.lib" -l"libc.a" 
