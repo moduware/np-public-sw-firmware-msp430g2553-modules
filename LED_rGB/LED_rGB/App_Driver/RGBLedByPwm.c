@@ -3,6 +3,8 @@
  *
  *  Created on: 2016-3-18
  *      Author: Administrator
+ *
+ * PWM funtion by hardware to set LED colours
  */
 #include "NCN_GPIO.h"
 #include "RGBLedByPwm.h"

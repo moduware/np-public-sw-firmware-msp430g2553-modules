@@ -7,10 +7,8 @@
 #ifdef __cplusplus
 extern "C" {
 #endif
-void RGB_LED(unsigned char*pData, unsigned char len); //cmd 2700
-void my_function_CMD_2702(unsigned char*pData, unsigned char len);
-void my_function_CMD_2704(unsigned char*pData, unsigned char len);
-void my_function_CMD_2706(unsigned char*pData, unsigned char len);
+void Primary_colors(unsigned char*pData, unsigned char len); //cmd 2700
+void RGB_LED(unsigned char*pData, unsigned char len); // cmd 2702
 #ifdef __cplusplus
 }
 #endif
