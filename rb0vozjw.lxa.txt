@@ -1,0 +1,139 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch master
+# Your branch is up-to-date with 'origin/master'.
+#
+# Changes to be committed:
+#	deleted:    .gitignore
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.cproject
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/Click_Go.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/Click_Go_v3.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/Click_Go_v4.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/Click_Go_v5.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/Click_PLAY.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/Potenciometer.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/Potentiometer.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/np_module_v1_example.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/np_module_v2.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/np_msp430_v1.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.launches/np_msp430_v2.launch
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/.project
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/libraries/NCN_GPIO.c
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/libraries/NCN_GPIO.h
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/lnk_msp430g2553.cmd
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/mdk/np_module_mdk_v1.h
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/mdk/np_module_mdk_v1.lib
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/t_my_app.c
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/t_my_app.h
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/targetConfigs/MSP430G2553.ccxml
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/targetConfigs/readme.txt
+#	deleted:    Click&PLAY project/20160607-1051/Click&PLAY/tmain.cpp
+#	deleted:    Click&PLAY project/Click&PLAY read me.txt
+#	deleted:    LED_rGB/LED_rGB/.cproject
+#	deleted:    LED_rGB/LED_rGB/.launches/LED_rGB.launch
+#	deleted:    LED_rGB/LED_rGB/.launches/np_module_v1_example.launch
+#	deleted:    LED_rGB/LED_rGB/.launches/np_module_v2.launch
+#	deleted:    LED_rGB/LED_rGB/.launches/np_msp430_v2.launch
+#	deleted:    LED_rGB/LED_rGB/.project
+#	deleted:    LED_rGB/LED_rGB/App_Driver/RGBLedByPwm.c
+#	deleted:    LED_rGB/LED_rGB/App_Driver/RGBLedByPwm.h
+#	deleted:    LED_rGB/LED_rGB/libraries/NCN_GPIO.c
+#	deleted:    LED_rGB/LED_rGB/libraries/NCN_GPIO.h
+#	deleted:    LED_rGB/LED_rGB/lnk_msp430g2553.cmd
+#	deleted:    LED_rGB/LED_rGB/mdk/np_module_mdk_v2.h
+#	deleted:    LED_rGB/LED_rGB/mdk/np_module_mdk_v2.lib
+#	deleted:    LED_rGB/LED_rGB/t_my_app.c
+#	deleted:    LED_rGB/LED_rGB/t_my_app.h
+#	deleted:    LED_rGB/LED_rGB/targetConfigs/MSP430G2553.ccxml
+#	deleted:    LED_rGB/LED_rGB/targetConfigs/readme.txt
+#	deleted:    LED_rGB/LED_rGB/tmain.cpp
+#	deleted:    example project/2016-05-19/np_module_v1_example/.ccsproject
+#	deleted:    example project/2016-05-19/np_module_v1_example/.cproject
+#	deleted:    example project/2016-05-19/np_module_v1_example/.launches/np_module_v1_example.launch
+#	deleted:    example project/2016-05-19/np_module_v1_example/.project
+#	deleted:    example project/2016-05-19/np_module_v1_example/.settings/org.eclipse.cdt.codan.core.prefs
+#	deleted:    example project/2016-05-19/np_module_v1_example/.settings/org.eclipse.cdt.debug.core.prefs
+#	deleted:    example project/2016-05-19/np_module_v1_example/.settings/org.eclipse.core.resources.prefs
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/ccsObjs.opt
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/makefile
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/mdk/subdir_rules.mk
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/mdk/subdir_vars.mk
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/np_module_v1_example.map
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/np_module_v1_example.out
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/np_module_v1_example.txt
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/np_module_v1_example_linkInfo.xml
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/objects.mk
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/sources.mk
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/subdir_rules.mk
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/subdir_vars.mk
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/tmain.obj
+#	deleted:    example project/2016-05-19/np_module_v1_example/Debug/tmain.pp
+#	deleted:    example project/2016-05-19/np_module_v1_example/lnk_msp430g2553.cmd
+#	deleted:    example project/2016-05-19/np_module_v1_example/mdk/np_module_mdk_v1.h
+#	deleted:    example project/2016-05-19/np_module_v1_example/mdk/np_module_mdk_v1.lib
+#	deleted:    example project/2016-05-19/np_module_v1_example/t_my_app.h
+#	deleted:    example project/2016-05-19/np_module_v1_example/targetConfigs/MSP430G2553.ccxml
+#	deleted:    example project/2016-05-19/np_module_v1_example/targetConfigs/readme.txt
+#	deleted:    example project/2016-05-19/np_module_v1_example/tmain.cpp
+#	deleted:    example project/example read me.txt
+#	deleted:    library file/library file/2016-05-23/Hard IIC/I2C.cpp
+#	deleted:    library file/library file/2016-05-23/Hard IIC/I2C.h
+#	deleted:    library file/library file/2016-05-23/SPI/pin_map.c
+#	deleted:    library file/library file/2016-05-23/SPI/pin_map.h
+#	deleted:    library file/library file/2016-05-23/SPI/soft_spi.cpp
+#	deleted:    library file/library file/2016-05-23/SPI/soft_spi.h
+#	deleted:    library file/library file/2016-05-23/Soft IIC/pin_map.c
+#	deleted:    library file/library file/2016-05-23/Soft IIC/pin_map.h
+#	deleted:    library file/library file/2016-05-23/Soft IIC/soft_i2c.cpp
+#	deleted:    library file/library file/2016-05-23/Soft IIC/soft_i2c.h
+#	deleted:    library file/library file/2016-05-23/UART on P2/queue.cpp
+#	deleted:    library file/library file/2016-05-23/UART on P2/queue.h
+#	deleted:    library file/library file/2016-05-23/UART on P2/soft_uart_cpp.cpp
+#	deleted:    library file/library file/2016-05-23/UART on P2/soft_uart_cpp.h
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/.cproject
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/.project
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/lnk_msp430g2553.cmd
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/main.cpp
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/pin_map.c
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/pin_map.h
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/soft_spi.cpp
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/soft_spi.h
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/targetConfigs/MSP430G2553.ccxml
+#	deleted:    library file/library project/2016-05-23/TEST_soft_spi_cpp/targetConfigs/readme.txt
+#	deleted:    library file/library project/2016-05-23/Test_hard_I2C_lib/.cproject
+#	deleted:    library file/library project/2016-05-23/Test_hard_I2C_lib/.project
+#	deleted:    library file/library project/2016-05-23/Test_hard_I2C_lib/I2C.cpp
+#	deleted:    library file/library project/2016-05-23/Test_hard_I2C_lib/I2C.h
+#	deleted:    library file/library project/2016-05-23/Test_hard_I2C_lib/lnk_msp430g2553.cmd
+#	deleted:    library file/library project/2016-05-23/Test_hard_I2C_lib/main.cpp
+#	deleted:    library file/library project/2016-05-23/Test_hard_I2C_lib/targetConfigs/MSP430G2553.ccxml
+#	deleted:    library file/library project/2016-05-23/Test_hard_I2C_lib/targetConfigs/readme.txt
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/.cproject
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/.project
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/delay.h
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/lnk_msp430g2553.cmd
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/main.cpp
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/pin_map.c
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/pin_map.h
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/soft_i2c.cpp
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/soft_i2c.h
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/targetConfigs/MSP430G2553.ccxml
+#	deleted:    library file/library project/2016-05-23/Test_soft_I2C/targetConfigs/readme.txt
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/.cproject
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/.project
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/lnk_msp430g2553.cmd
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/main.cpp
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/queue.cpp
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/queue.h
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/soft_uart_cpp.cpp
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/soft_uart_cpp.h
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/targetConfigs/MSP430G2553.ccxml
+#	deleted:    library file/library project/2016-05-23/Test_soft_uart_on_P2/targetConfigs/readme.txt
+#	deleted:    library file/library read me.txt
+#	deleted:    mdk file/2016-05-19/mdk/np_module_mdk_v1.0.1.h
+#	deleted:    mdk file/2016-05-19/mdk/np_module_mdk_v1.0.1.lib
+#	deleted:    mdk file/CCS setting lib.doc
+#	deleted:    mdk file/mdk read me.txt
+#
+

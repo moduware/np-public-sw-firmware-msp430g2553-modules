@@ -1,1 +1,0 @@
-"./tmain.obj" -l"D:\GitHub\np-private-sw-firmware-msp430g2553-modules\NCN_module\np_module_v1_example\mdk\np_module_mdk_v1.lib" -l"libc.a" "../lnk_msp430g2553.cmd" "../mdk/np_module_mdk_v1.lib" 
