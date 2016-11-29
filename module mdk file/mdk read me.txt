@@ -1,0 +1,17 @@
+
+Read me for version and modify
+/******************************************************************/
+
+1. 2016-05-19				v1.0.1
+	mdk add the function about getting version of mdk.
+	send command"0x5100" for getting  version of mdk.
+	mdk will respone the version of mdk by command"0x5101"
+	mdk version is consist of 3 bytes.
+	
+	
+2 2016-11-29 Version_1.0.6
+	A. at least used at exmaple version "2016-11-29 Version_0.4.5"
+	   Module exmaple project version >= 0.4.5
+	   
+    B. fix Bug about spi recovery normal communication after SPI communication destroyed.
+	   
