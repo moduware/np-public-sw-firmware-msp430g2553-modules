@@ -1,0 +1,1 @@
+"./soft_i2c.obj" "./pin_map.obj" "./main.obj" -l"libc.a" "../lnk_msp430g2553.cmd" 
