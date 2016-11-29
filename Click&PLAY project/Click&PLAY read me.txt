@@ -1,6 +1,0 @@
-
-Read me for version and modify
-/******************************************************************/
-
-2016-06-27  10：51
-	The first version on github
