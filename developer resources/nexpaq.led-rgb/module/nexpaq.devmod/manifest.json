@@ -1,0 +1,10 @@
+
+{
+	"id": "nexpaq.msp",
+	"name": "MSP",
+	"description": "MSP module for module development and prototyping.",
+  "size": 1,
+	"firmware_version": "0.0.0",
+	"icon": "icon.svg",
+	"creator": "nexpaq"
+}

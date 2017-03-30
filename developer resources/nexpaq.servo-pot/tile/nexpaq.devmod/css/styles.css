@@ -1,0 +1,37 @@
+/* basic styles for all aspects of the application */
+html {
+  /*background:  url(http://data.whicdn.com/images/40513780/original.gif) no-repeat center center fixed; */
+  background-size: 100% 125%;
+}
+body {
+	padding: 70px 0 0;
+	margin: 0;
+	font-size: 16px;
+	font-family: Impact, Charcoal, sans-serif;
+	text-align: center;
+}
+
+h1 {
+	font-size: 1.5em;
+	line-height: 2.5em;
+	margin: 0;
+	background-color: black;
+	color: #66CCCC;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 1.3em;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.text{
+	font-size: 45px;
+	color: #66CCCC;
+	font-family: Impact, Charcoal, sans-serif;
+	font-style: oblique
+	font-weight: bold
+	text-align: center;
+	margin-top: 50px;
+}

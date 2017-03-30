@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+	<!-- Title of your app -->
+	<title>POTENCIOMETER</title>
+	<!-- Fit the app in phone's screen -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+    
+    <!-- Linking styles to our app -->
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+	<!-- Link the scripts -->
+	<script type="text/javascript" src="js/nexpaqAPI.js"></script>
+	<script type="text/javascript" src="js/MSP_Object.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
+	<script src="http://10.0.1.170:8080/target/target-script-min.js#anonymous" async></script>
+</head>
+<body>
+<!-- App header -->
+	<h1> Potenciometer value </h1>
+	<p>
+	<p><input type="button" id="get_pot_val" value="Get potentiometer's value!"class="potbut"></p>
+	<div align="center" id="content" class="text" >adc</div> <!-- display potentiometer's values -->
+	<div align="center" id="content1" class="text">analog</div>
+	</p>
+
+</body>
+</html>

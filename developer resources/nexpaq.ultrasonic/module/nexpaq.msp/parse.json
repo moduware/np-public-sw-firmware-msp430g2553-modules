@@ -1,0 +1,9 @@
+[
+  {   
+   "fun": "Distance",
+   "data": [
+      0,1
+   ],
+   "format": "%d*256+%d"
+  } 
+]

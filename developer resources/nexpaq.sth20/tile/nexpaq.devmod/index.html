@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+	<!-- Title of your app -->
+	<title> SHT20 </title>
+	<!-- Fit the app in phone's screen -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+  <meta name="format-detection" content="telephone=no">
+  <!-- Linking styles to our app -->
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+	<!-- Link scripts -->
+	<script type="text/javascript" src="js/lib/nexpaqAPI.js"></script>
+	<script type="text/javascript" src="js/lib/DevMod_Object.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
+</head>
+<body>
+<!-- App header -->
+<h1> SHT20 </h1>
+	<p>
+		<input type="button" id="celsius" value="Celsius" class="BUTTONS">
+		<input type="button" id="fahrenheit" value="Fahrenheit" class="BUTTONS">
+	</p>
+<!-- display SHT20's values -->
+<p>
+<div align="center" id="temperature" class="text" >ºC</div>
+<div align="center" id="humidity" class="text" >%H</div>
+</p>
+
+</body>
+</html>
