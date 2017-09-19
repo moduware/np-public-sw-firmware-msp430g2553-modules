@@ -1,0 +1,2 @@
+ "module MDK Version 1.0.9.zip" is the mdk file.
+ "np_module_v1_example.zip" is a demo which using current mdk file
