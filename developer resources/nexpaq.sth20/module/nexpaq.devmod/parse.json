@@ -1,0 +1,16 @@
+[
+  {
+   "fun": "Temperature",
+   "data": [
+      0,1
+   ],
+   "format": "%d*256+%d"
+  },
+  {
+   "fun": "Humidity",
+   "data": [
+      2,3
+   ],
+   "format": "%d*256+%d"
+  }
+]

@@ -1,0 +1,50 @@
+
+body {
+	padding: 70px 0 0;
+	margin: 0;
+	font-size: 16px;
+	font-family: sans-serif;
+	text-align: center;
+	background-color: #FF2E8A;
+}
+
+h1 {
+	font-size: 2em;
+	line-height: 2.5em;
+	margin: 0px;
+	background-color: black;
+	color: #FF2E8A;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 1.3em;
+	padding-bottom: 1px;
+	padding-top: 50px;
+}
+
+input[type=text] {
+	text-align: center;
+	background-color: white;
+	color: black;
+	font-weight: bold;
+	border:2px solid black;
+	border-radius:8px;
+	height: 50px;
+	width: 250px;
+	margin-right: 25px;
+  margin-left: 25px;
+	font-size: 25px;
+	font-family: sans-serif;
+}
+
+.text{
+	font-size: 20px;
+	color: black;
+	font-family: sans-serif;
+	font-style: oblique
+	font-weight: bold
+	text-align: center;
+	margin-top: 50px;
+	color: black;
+}

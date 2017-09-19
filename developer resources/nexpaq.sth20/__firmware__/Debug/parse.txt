@@ -1,0 +1,16 @@
+[
+  {   
+   "fun": "first",
+   "data": [
+      0
+   ],
+   "format": "%d"
+  },
+  {   
+   "fun": "second",
+   "data": [
+      1
+   ],
+   "format": "%d"
+  }
+]

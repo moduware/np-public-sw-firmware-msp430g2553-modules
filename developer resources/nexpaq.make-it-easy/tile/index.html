@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <title>Make it easy</title>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="mobile-web-app-capable" content="yes">
+    <meta name="apple-mobile-web-app-capable" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <!-- <link rel="icon" sizes="192x192" href="img/AirQ.png"> -->
+    <link rel="manifest" href="manifest.json">
+    <!-- for remote debug -->
+    <!-- <script src="http://10.0.1.170:8080/target/target-script-min.js#anonymous" async></script> -->
+    <link rel="stylesheet" type="text/css" href="css/reset.css">
+    <link rel="stylesheet" type="text/css" href="fonts/fonts.css">
+    <link rel="stylesheet" type="text/css" href="css/styles.css">
+    <!-- vendor -->
+
+    <!-- nexpaq libs -->
+    <script type="text/javascript" src="js/lib/nexpaqAPI.js"></script>
+    <script type="text/javascript" src="js/lib/DevMod_Object.js"></script>
+
+    <!-- partials -->
+
+    <!-- screens -->
+
+    <!-- tools-->
+
+    <!-- core -->
+    <script type="text/javascript" src="js/scripts.js"></script>
+  </head>
+  <body data-module="msp"> <!-- max & msp -->
+    <div id="wrapper" class="wrapper" data-color="black">
+      <h2>Types</h2>
+      <ul class="types-list">
+        <li class="bg-magenta">GPIO I</li>
+        <li class="bg-green">GPIO O</li>
+        <li class="bg-blue">ADC</li>
+        <li class="bg-yellow">PWM</li>
+      </ul>
+      <h2>Pins</h2>
+      <div class="pages" id="pages" data-page="1"></div>
+      <button class="page-switcher" id="prev-page">Prev</button>
+      <button class="page-switcher" id="next-page">Next</button>
+    </div>
+  </body>
+</html>

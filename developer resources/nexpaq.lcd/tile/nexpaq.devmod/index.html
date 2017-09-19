@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+	<!-- Title of your app -->
+	<title> LCD </title>
+	<!-- Fit the app in phone's screen -->
+	<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+    <meta name="format-detection" content="telephone=no">
+
+    <!-- Linking styles to our app -->
+	<link rel="stylesheet" type="text/css" href="css/styles.css">
+
+	<!-- Link scripts -->
+	<script type="text/javascript" src="js/lib/nexpaqAPI.js"></script>
+	<script type="text/javascript" src="js/lib/DevMod_Object.js"></script>
+	<script type="text/javascript" src="js/scripts.js"></script>
+	<!-- for remote debug -->
+	<!-- <script src="http://10.0.1.170:8080/target/target-script-min.js#anonymous" async></script> -->
+</head>
+<body>
+<!-- App header -->
+<h1> LCD </h1>
+<p>
+<!-- input text 1st line and call LCD() function when input change-->
+	<input align='center' type="text" id="content_1" maxlength="16" oninput="LCD()">
+</p>
+	<input align='center' type="text" id="content_2" maxlength="16" oninput="LCD()">
+</body>
+</html>

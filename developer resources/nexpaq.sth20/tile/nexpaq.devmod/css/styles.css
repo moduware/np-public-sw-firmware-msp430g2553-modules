@@ -1,0 +1,49 @@
+
+body {
+	padding: 50px 0 0;
+	margin: 0;
+	font-size: 16px;
+	font-family: sans-serif;
+	text-align: center;
+	background-color: #FF2E8A;
+}
+
+h1 {
+	font-size: 1.5em;
+	line-height: 2.5em;
+	margin: 0;
+	background-color: black;
+	color: #FF2E8A;
+	text-transform: uppercase;
+}
+
+p {
+	font-size: 1.3em;
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.BUTTONS{
+	margin: 30px 10px 10px;
+  font-size:12px;
+  font-weight:bold;
+  color: black;
+	background-color: white;
+  border:1px solid black;
+	border-radius:8px;
+  width:80px;
+  height:30px;
+  line-height: 10px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+.text{
+	font-size: 20px;
+	color: black;
+	font-family: sans-serif;
+	font-style: oblique
+	font-weight: bold
+	text-align: center;
+	margin-top: 50px;
+	color: black;
+}

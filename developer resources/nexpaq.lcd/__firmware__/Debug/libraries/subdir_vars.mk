@@ -1,0 +1,44 @@
+################################################################################
+# Automatically-generated file. Do not edit!
+################################################################################
+
+# Add inputs and outputs from these tool invocations to the build variables 
+CPP_SRCS += \
+../libraries/I2C.cpp \
+../libraries/LiquidCrystal.cpp 
+
+C_SRCS += \
+../libraries/NCN_GPIO.c 
+
+OBJS += \
+./libraries/I2C.obj \
+./libraries/LiquidCrystal.obj \
+./libraries/NCN_GPIO.obj 
+
+CPP_DEPS += \
+./libraries/I2C.pp \
+./libraries/LiquidCrystal.pp 
+
+C_DEPS += \
+./libraries/NCN_GPIO.pp 
+
+CPP_DEPS__QUOTED += \
+"libraries\I2C.pp" \
+"libraries\LiquidCrystal.pp" 
+
+C_DEPS__QUOTED += \
+"libraries\NCN_GPIO.pp" 
+
+OBJS__QUOTED += \
+"libraries\I2C.obj" \
+"libraries\LiquidCrystal.obj" \
+"libraries\NCN_GPIO.obj" 
+
+CPP_SRCS__QUOTED += \
+"../libraries/I2C.cpp" \
+"../libraries/LiquidCrystal.cpp" 
+
+C_SRCS__QUOTED += \
+"../libraries/NCN_GPIO.c" 
+
+
